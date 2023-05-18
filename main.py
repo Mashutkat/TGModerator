@@ -8,7 +8,7 @@ bot = telebot.TeleBot('TOKEN')
 # Обработчик команды /start
 @bot.message_handler(commands=['start'])
 def start(message):
-    bot.reply_to(message, "Привет! Я бот, который может блокировать, кикать, мутить и размутить пользователей в чате. Для использования моих функций, вы должны быть администратором чата.")
+    bot.reply_to(message, "Привет!Я могу икать, мутить и размутить в чате. Для использования, вы должны быть администратором чата. Оригинал github.com/Mashutkat/TGModerator
 
 # Обработчик команды /ban
 @bot.message_handler(commands=['ban'])
