@@ -1,2 +1,9 @@
 # TGModerator Your freind for moderators.
-![image](https://github.com/Mashutkat/TGModerator/assets/133820698/cc557b0f-f370-436a-af24-d8daa638583d)
+open source my telegram bot 
+https://t.me/asdfrqwbot
+# commands
+/ban - ban user 
+/unban - unban user
+/mute - ordinary or X seconds mute
+/unmute - unmute user
+/kick - the ban command idk im add this command
